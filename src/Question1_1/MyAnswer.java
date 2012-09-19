@@ -2,6 +2,14 @@ package Question1_1;
 
 public class MyAnswer {
 	
+	/**
+	 * 1. didn't range check
+	 * 2. didn't write main method to test
+	 * 3. didn't follow instructions (used additional data structures)
+	 * @param checkMe
+	 * @return
+	 * @throws IllegalArgumentException
+	 */
 	public static boolean allUnique(String checkMe) throws IllegalArgumentException {
 		if (checkMe == null) throw new IllegalArgumentException("checkMe cannot be null");
 		if (checkMe.length() > 256 ) throw new IllegalArgumentException("checkMe cannot exceed 256 characters in length");
