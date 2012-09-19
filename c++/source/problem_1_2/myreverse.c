@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// gcc -o a.out myreverse.c
+//
 // 1. didn't follow instructions (method signature wrong on first attempt)
 // 2. code didn't even work at first attempt
 // 3. C was invalid
