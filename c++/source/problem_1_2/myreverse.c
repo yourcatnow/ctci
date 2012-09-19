@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 
+// Problem 1.2:
+// Implement a function void reverse(char* str) in C or C++ which reverses
+// a null-terminated string.
+//
+// to compile:
 // gcc -o a.out myreverse.c
 //
 // 1. didn't follow instructions (method signature wrong on first attempt)
